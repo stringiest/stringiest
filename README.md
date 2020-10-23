@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Lucy 👋
+
+I'm a recovering accountant, currently studying at Makers Academy.
+
+- 🌱 I’m currently learning Ruby!
 
 <!--
 **stringiest/stringiest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
