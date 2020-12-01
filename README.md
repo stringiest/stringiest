@@ -2,7 +2,7 @@
 
 I'm a recovering accountant, currently studying at Makers Academy.
 
-- 🌱 I’m currently learning Ruby!
+- 🌱 I’m currently learning Ruby Javascript!
 
 <!--
 **stringiest/stringiest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
