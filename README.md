@@ -1,8 +1,9 @@
 ### Hi there, I'm Lucy 👋
 
-I'm a recovering accountant, currently studying at Makers Academy.
+I'm a recovering accountant, and Makers Academy graduate.
 
-- 🌱 I’m currently learning Ruby and Javascript!
+- 🌱 I’m currently learning Ruby, Javascript, React and Python & Django.
+- ❤️ I love making websites in Rails!
 
 <!--
 **stringiest/stringiest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
