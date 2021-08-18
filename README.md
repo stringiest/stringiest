@@ -6,7 +6,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 
 ## More about me:
 
-- 🔭 **I’m currently working on** a gift list website in Ruby on Rails
+- 🔭 **I’m currently working on** my first role as a software developer at [Abelson Info](https://abelsoninfo.com/)
 - 🌱 **I’m currently learning** Ruby, Javascript, React and Python & Django.
 - ❤️ **I love making** websites in Rails!
 
