@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Lucy - a [Maker](https://makers.tech/), recovering accountant, and full-stack developer.  I have spent much of my career championing technical solutions to improve processes, whether in accountancy or social housing.  I am now embarking on a new challenge as a software developer, where I can use my experience to build technical solutions myself.
+I'm a software developer at Abelson Info and am really enjoying getting to grips with our 30 or so apps, which stretch through from Rails 3 to Rails 6 (with the odd Python app thrown in for good measure)! I came to this role after completing a coding bootcamp at [Makers](https://makers.tech/). Prior to that I was a tax accountant.
 
 Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/stringiest/CV) or scroll down to check-out some of my favourite projects.
 
@@ -9,6 +9,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 - 🔭 **I’m currently working on** my first role as a software developer at [Abelson Info](https://abelsoninfo.com/)
 - 🌱 **I’m currently learning** Ruby, Javascript, React and Python & Django.
 - ❤️ **I love making** websites in Rails!
+- 😄 **Pronouns** she/her
 
 ## Find me here:
 
