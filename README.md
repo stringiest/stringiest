@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am a full-stack developer, [Maker](https://makers.tech/) and recovering accountant. Currently I'm working as a software developer at Abelson Info, and am really enjoying getting to grips with our 30 or so apps, which stretch through from Rails 3 to Rails 6 (with the odd Python app thrown in for good measure)! 
+I am a full-stack developer, [Maker](https://makers.tech/) and recovering accountant. Currently I'm working as a software developer at Abelson Info, and am really enjoying getting to grips with our 30 or so apps, which stretch through from Rails 2.3 to Rails 6 (with the odd Python app thrown in for good measure)! 
 
 Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/stringiest/CV) or scroll down to check-out some of my favourite projects.
 
