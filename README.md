@@ -1,12 +1,12 @@
 ## Hi there! 👋
 
-I am a full-stack developer, [Maker](https://makers.tech/) and recovering accountant. Currently I'm working as a software developer at Abelson Info, and am really enjoying getting to grips with our 30 or so apps, which stretch through from Rails 2.3 to Rails 6 (with the odd Python app thrown in for good measure)! 
+I am a developer at Citizens Advice, working on Casebook - their CRM tool. After finishing my coding bootcamp at [Maker](https://makers.tech/) I was at Abelson Info for just under a year working mostly with Ruby on Rails (versions 2.3 - 6). Before coding I trained as an accountant, latterly working in personal tax, and worked in social housing before that. 
 
 Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/stringiest/CV) or scroll down to check-out some of my favourite projects.
 
 ## More about me:
 
-- 🔭 **I’m currently working on** my first role as a software developer at [Abelson Info](https://abelsoninfo.com/)
+- 🔭 **I’m currently working as** a developer at [Citizens Advice](https://www.citizensadvice.org.uk/)
 - 🌱 **I’m currently learning** Ruby, Javascript, React and Python & Django.
 - ❤️ **I love making** websites in Rails!
 - 😄 **Pronouns** she/her
