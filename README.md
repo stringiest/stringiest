@@ -7,9 +7,8 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 ## More about me:
 
 - 🔭 **I’m currently working as** a developer at [Citizens Advice](https://www.citizensadvice.org.uk/)
-- 🌱 **I’m currently learning** Ruby, Javascript, React and Python & Django.
+- 🌱 **I’m currently learning** Ruby, Javascript and React.
 - ❤️ **I love making** websites in Rails!
-- 😄 **Pronouns** she/her
 
 ## Find me here:
 
