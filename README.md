@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am a developer at Citizens Advice, working on Casebook - their CRM tool. After finishing my coding bootcamp at [Maker](https://makers.tech/) I was at Abelson Info for just under a year working mostly with Ruby on Rails (versions 2.3 - 6). Before coding I trained as an accountant, latterly working in personal tax, and worked in social housing before that. 
+I am a developer at Citizens Advice, working on the Content Platform and Digital Energy teams. After finishing my coding bootcamp at [Makers](https://makers.tech/) I was at Abelson Info for just under a year working mostly with Ruby on Rails (versions 2.3 - 6). Before coding I trained as an accountant, latterly working in personal tax, and worked in social housing before that. 
 
 Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/stringiest/CV) or scroll down to check-out some of my favourite projects.
 
